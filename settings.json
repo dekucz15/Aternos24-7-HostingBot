@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "catallacampal.aternos.me",
+    "ip": "catallacampal.aternos.me:38442",
     "port": 38442,
     "version": "",
     "try-creative": false
