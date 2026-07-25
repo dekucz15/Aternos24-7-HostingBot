@@ -1,44 +1,6 @@
 {
   "name": "AFK Bot",
-  "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
-    "type": "offline"
-  },
-  "server": {
-    "ip": "catallacampal.aternos.me",
-    "port": 38442,
-    "version": "",
-    "try-creative": false
-  },
-  "position": {
-    "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
-  },
-  "utils": {
-    "auto-auth": {
-      "enabled": true,
-      "password": "chalol78"
-    },
-    "anti-afk": {
-      "enabled": true,
-      "sneak": true
-    },
-    "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
-      ]
-    },
-    "chat-log": true,
-    "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+ 
     "max-reconnect-delay": 120000,
     "periodic-rejoin": {
       "enabled": false,
